@@ -1,6 +1,6 @@
 # Astroschool
 
-astroschool.astrologlubimova.ru (changed by the customer) - Inna Lubimova's Astroschool - landing page powered by WordPress CMS
+[astroschool.astrologlubimova.ru](https://astroschool.astrologlubimova.ru) (changed by the customer) - Inna Lubimova's Astroschool - landing page powered by WordPress CMS  
 Original view link: https://astroschool.grigoriy.site
 
 Work done:
@@ -16,7 +16,7 @@ Technologies used: HTML, CSS, Javascript, jQuery, PHP, WordPress
 
 ---
 
-astroschool.astrologlubimova.ru (изменён клиентом) - Астрошкола Инны Любимовой - посадочная страница
+[astroschool.astrologlubimova.ru](https://astroschool.astrologlubimova.ru) (изменён клиентом) - Астрошкола Инны Любимовой - посадочная страница на Wordpress CMS  
 Ссылка для просмотра оригинала: https://astroschool.grigoriy.site
 
 Выполненная работа:

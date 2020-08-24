@@ -1,6 +1,6 @@
 # HintPR
 
-hintpr.com - Hint PR - multi-language landing page  
+[hintpr.com](https://hintpr.com) - Hint PR - multi-language landing page  
 Repository link: https://github.com/hryhorii-kharchenko/hint-pr
 
 Work done:
@@ -15,7 +15,7 @@ Technologies used: HTML, CSS, Javascript, jQuery, PHP
 
 ---
 
-hintpr.com - Hint PR - посадочная страница  
+[hintpr.com](https://hintpr.com) - Hint PR - посадочная страница  
 Ссылка на репозиторий: https://github.com/hryhorii-kharchenko/hint-pr
 
 Выполненная работа:

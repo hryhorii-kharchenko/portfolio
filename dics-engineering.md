@@ -1,6 +1,6 @@
 # DICS Engineering
 
-dics-engineering.com - DICS Engineering - template-based corporate website powered by WordPress
+[dics-engineering.com](https://dics-engineering.com) - DICS Engineering - template-based corporate website powered by WordPress
 
 Work done:
 
@@ -15,7 +15,7 @@ Technologies used: CSS, Javascript, jQuery, Woocommerce
 
 ---
 
-dics-engineering.com - DICS Engineering - корпоративный сайт на шаблоне для WordPress
+[dics-engineering.com](https://dics-engineering.com) - DICS Engineering - корпоративный сайт на шаблоне для WordPress
 
 Выполненная работа:
 

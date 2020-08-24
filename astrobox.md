@@ -1,6 +1,6 @@
 # Astrobox
 
-astrobox.astrologlubimova.ru - Inna Lubimova's Astrobox - landing page
+[astrobox.astrologlubimova.ru](https://astrobox.astrologlubimova.ru) - Inna Lubimova's Astrobox - landing page
 
 Work done:
 
@@ -13,7 +13,7 @@ Technologies used: HTML, CSS, Javascript, jQuery, PHP
 
 ---
 
-astrobox.astrologlubimova.ru - Астробоксы от Инны Любимовой - посадочная страница
+[astrobox.astrologlubimova.ru](https://astrobox.astrologlubimova.ru) - Астробоксы от Инны Любимовой - посадочная страница
 
 Выполненная работа:
 

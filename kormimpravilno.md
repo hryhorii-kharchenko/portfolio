@@ -1,6 +1,6 @@
 # KormimPravilno
 
-kormimpravilno.com (changed by the customer) - KormimPravilno - React e-commerce web app; powered by headless Woocommerce backend  
+[kormimpravilno.com](https://kormimpravilno.com) (changed by the customer) - KormimPravilno - React e-commerce web app; powered by headless Woocommerce backend  
 Original view link: https://kormimpravilno.grigoriy.site  
 Repository link: https://github.com/hryhorii-kharchenko/kormimpravilno-ufa
 
@@ -15,13 +15,13 @@ Work done:
 - extended WooCommerce functionality to fit client's requirements;
 - setup VPS based on CentOS for hosting on Nginx with automatic rebuild on content change (WordPress) or source code change (GitHub).
 
-Technologies used:
-Front-end: HTML, CSS, Javascript, React, Gatsby, GraphQL, Git
+Technologies used:  
+Front-end: HTML, CSS, Javascript, React, Gatsby, GraphQL, Git  
 Back-end: PHP, Headless WordPress, Woocommerce
 
 ---
 
-kormimpravilno.com (изменён клиентом) - КормимПравильно - интернет-магазин на React; back-end - headless Woocommerce  
+[kormimpravilno.com](https://kormimpravilno.com) (изменён клиентом) - КормимПравильно - интернет-магазин на React; back-end - headless Woocommerce  
 Ссылка для просмотра оригинала: https://kormimpravilno.grigoriy.site  
 Ссылка на репозиторий: https://github.com/hryhorii-kharchenko/kormimpravilno-ufa
 
@@ -35,6 +35,6 @@ kormimpravilno.com (изменён клиентом) - КормимПравил�
 - доработал функциональность WooCommerce для реализации задач клиента;
 - настроил VPS на CentOS для хостинга на nginx с автоматическим ребилдом при изменении контента (WordPress), либо исходных файлов (GitHub).
 
-Использованные технологии:
-Front-end: HTML, CSS, Javascript, React, Gatsby, GraphQL, Git
+Использованные технологии:  
+Front-end: HTML, CSS, Javascript, React, Gatsby, GraphQL, Git  
 Back-end: PHP, Headless WordPress, Woocommerce

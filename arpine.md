@@ -1,6 +1,6 @@
 # Arpine Pro
 
-arpine.pro (changed by the customer) - Arpine Pro - landing page powered by October CMS
+[arpine.pro](https://arpine.pro) (changed by the customer) - Arpine Pro - landing page powered by October CMS  
 Original view link: https://arpine.grigoriy.site
 
 Work done:
@@ -16,7 +16,7 @@ Technologies used: HTML, CSS, Javascript, jQuery, PHP, October CMS
 
 ---
 
-arpine.pro (изменён клиентом) - Арпине Про - посадочная страница
+[arpine.pro](https://arpine.pro) (изменён клиентом) - Арпине Про - посадочная страница на October CMS  
 Ссылка для просмотра оригинала: https://arpine.grigoriy.site
 
 Выполненная работа:

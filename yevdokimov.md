@@ -1,6 +1,6 @@
 # Yevdokimov
 
-yevdokimov.pro (customer stopped hosting) - Yevdokimov - landing page  
+[yevdokimov.pro](https://yevdokimov.pro) (customer stopped hosting) - Yevdokimov - landing page  
 Original view link: https://yevdokimov.grigoriy.site  
 Repository link: https://github.com/hryhorii-kharchenko/yevdokimov-pro
 
@@ -15,7 +15,7 @@ Technologies used: HTML, CSS, Javascript, jQuery, PHP
 
 ---
 
-yevdokimov.pro (клиент остановил хостинг) - Yevdokimov - посадочная страница  
+[yevdokimov.pro](https://yevdokimov.pro) (клиент остановил хостинг) - Yevdokimov - посадочная страница  
 Ссылка для просмотра оригинала: https://yevdokimov.grigoriy.site  
 Ссылка на репозиторий: https://github.com/hryhorii-kharchenko/yevdokimov-pro
 

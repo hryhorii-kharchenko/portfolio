@@ -1,6 +1,6 @@
 # Inna Lubimova's Webinar
 
-webinar.astrologlubimova.ru - Webinar by Inna Lubimova - landing page powered by WordPress CMS
+[webinar.astrologlubimova.ru](https://webinar.astrologlubimova.ru) - Webinar by Inna Lubimova - landing page powered by WordPress CMS
 
 Work done:
 
@@ -14,7 +14,7 @@ Technologies used: HTML, CSS, Javascript, jQuery, PHP, WordPress
 
 ---
 
-webinar.astrologlubimova.ru - Вебинар от Инны Любимовой - посадочная страница
+[webinar.astrologlubimova.ru](https://webinar.astrologlubimova.ru) - Вебинар от Инны Любимовой - посадочная страница на Wordpress CMS
 
 Выполненная работа:
 

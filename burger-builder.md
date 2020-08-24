@@ -1,6 +1,6 @@
 # BurgerBuilder
 
-burger-builder.grigoriy.site - BurgerBuilder - React showcase SPA  
+[burger-builder.grigoriy.site](https://burger-builder.grigoriy.site) - BurgerBuilder - React showcase SPA  
 Repository link: https://github.com/hryhorii-kharchenko/burger-builder
 
 Work done:
@@ -14,7 +14,7 @@ Technologies used: React, Redux, React Router, HTML, CSS, Javascript
 
 ---
 
-burger-builder.grigoriy.site - BurgerBuilder - демо SPA на React  
+[burger-builder.grigoriy.site](https://burger-builder.grigoriy.site) - BurgerBuilder - демо SPA на React  
 Ссылка на репозиторий: https://github.com/hryhorii-kharchenko/burger-builder
 
 Выполненная работа:

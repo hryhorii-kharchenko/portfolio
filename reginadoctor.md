@@ -1,6 +1,6 @@
 # ReginaDoctor
 
-reginadoctor.com - Regina Doctor - e-commerce website powered by Woocommerce
+[reginadoctor.com](https://reginadoctor.com) - Regina Doctor - e-commerce website powered by Woocommerce
 
 Work done:
 
@@ -15,7 +15,7 @@ Technologies used: HTML, CSS, Javascript, jQuery, PHP, WordPress, Woocommerce
 
 ---
 
-reginadoctor.com - Регина Доктор - интернет-магазин на платформе Woocommerce
+[reginadoctor.com](https://reginadoctor.com) - Регина Доктор - интернет-магазин на платформе Woocommerce
 
 Выполненная работа:
 
